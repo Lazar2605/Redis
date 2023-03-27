@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nszpm5RLrXrpnjtREKiv4Mdb9+HahFW0pHbMgTuzgHJmlGgxYXmY1EpKDEgDv3xwMPhqPjgGP+KW141RCOU+eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lidija\\Downloads\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (2)\\NBPProj1_2\\NBPProj1_2\\NBPProj1_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lidija\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\stackexchange.redis\\2.6.86\\stackexchange.redis.2.6.86.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lidija\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

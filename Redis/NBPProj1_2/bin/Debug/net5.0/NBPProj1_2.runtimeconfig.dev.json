@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lidija\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lidija\\.nuget\\packages"
+    ]
+  }
+}

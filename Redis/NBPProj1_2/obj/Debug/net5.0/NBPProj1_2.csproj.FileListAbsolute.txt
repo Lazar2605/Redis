@@ -1,0 +1,264 @@
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Pack.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.NBPProj1_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.build.NBPProj1_2.props
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.NBPProj1_2.props
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.NBPProj1_2.props
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\refint\NBPProj1_2.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\cakic\source\repos\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\refint\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.xml
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.StaticWebAssets.xml
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\refint\NBPProj1_2.dll
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\milja\Desktop\NBP\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.xml
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\DodatCss\NBPProj1_2\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.xml
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.StaticWebAssets.xml
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Pack.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.NBPProj1_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.build.NBPProj1_2.props
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.NBPProj1_2.props
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.NBPProj1_2.props
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\refint\NBPProj1_2.dll
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\cakic\Downloads\NBPProj1_2 (4)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.xml
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
