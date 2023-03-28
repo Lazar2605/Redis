@@ -262,3 +262,35 @@ C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi
 C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
 C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
 C:\Users\Lidija\Downloads\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (Trebalo bi finalno)\NBPProj1_2 (2)\NBPProj1_2\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\appsettings.json
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.exe
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.deps.json
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.json
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.runtimeconfig.dev.json
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.AssemblyReference.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfoInputs.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.AssemblyInfo.cs
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CoreCompileInputs.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.Manifest.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\staticwebassets\NBPProj1_2.StaticWebAssets.xml
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\scopedcss\bundle\NBPProj1_2.styles.css
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.RazorTargetAssemblyInfo.cache
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.csproj.CopyComplete
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\ref\NBPProj1_2.dll
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.pdb
+C:\Users\Lidija\Desktop\Projekti\Redis\NBPProj1_2\obj\Debug\net5.0\NBPProj1_2.genruntimeconfig.cache

@@ -302,11 +302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lidija\\Downloads\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (2)\\NBPProj1_2\\NBPProj1_2\\NBPProj1_2.csproj",
+      "projectUniqueName": "C:\\Users\\Lidija\\Desktop\\Projekti\\Redis\\NBPProj1_2\\NBPProj1_2.csproj",
       "projectName": "NBPProj1_2",
-      "projectPath": "C:\\Users\\Lidija\\Downloads\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (2)\\NBPProj1_2\\NBPProj1_2\\NBPProj1_2.csproj",
+      "projectPath": "C:\\Users\\Lidija\\Desktop\\Projekti\\Redis\\NBPProj1_2\\NBPProj1_2.csproj",
       "packagesPath": "C:\\Users\\Lidija\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lidija\\Downloads\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (2)\\NBPProj1_2\\NBPProj1_2\\obj\\",
+      "outputPath": "C:\\Users\\Lidija\\Desktop\\Projekti\\Redis\\NBPProj1_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lidija\\AppData\\Roaming\\NuGet\\NuGet.Config",

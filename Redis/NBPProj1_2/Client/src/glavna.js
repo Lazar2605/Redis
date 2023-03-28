@@ -27,7 +27,6 @@ else if (logovanje.split(":")[0] == "Salon") {
             pp.json().then(salon => {
                 var s = new Salon(salon.id, salon.email, salon.password, salon.name, salon.phone, salon.address, salon.city, salon.tip, salon.mark, salon.numOfMark, salon.workingTime, 
                     salon.reservations, salon.reservationsKey, salon.photos, salon.photosKey);
-                console.log(s);
                 s.crtaj(document.body);
             })
         }

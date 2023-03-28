@@ -19,6 +19,72 @@ export class Salon {
     }
 
     crtaj(host) {
+        let divProfil = document.createElement("div");
+        divProfil.className = "divRezervacije";
+        host.appendChild(divProfil);
+        let dugmeProfil = document.createElement("button");
+        dugmeProfil.innerHTML = "Profil";
+        dugmeProfil.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeProfil);
+
+        dugmeProfil.onclick = () => {
+            this.CrtajFormu("profil");
+        }
+
+        let dugmeDodajFrizera = document.createElement("button");
+        dugmeDodajFrizera.innerHTML = "Dodaj frizera";
+        dugmeDodajFrizera.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeDodajFrizera);
+
+        dugmeDodajFrizera.onclick = () => {
+            this.CrtajFormu("dodajFrizera");
+        }
+
+        let dugmeObrisiFrizera = document.createElement("button");
+        dugmeObrisiFrizera.innerHTML = "Obriši frizera";
+        dugmeObrisiFrizera.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeObrisiFrizera);
+
+        dugmeObrisiFrizera.onclick = () => {
+            this.CrtajFormu("obrisiFrizera");
+        }
+
+        
+        let dugmeDodajUslugu = document.createElement("button");
+        dugmeDodajUslugu.innerHTML = "Dodaj uslugu";
+        dugmeDodajUslugu.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeDodajUslugu);
+
+        dugmeDodajUslugu.onclick = () => {
+            this.CrtajFormu("dodajUslugu");
+        }
+
+        let dugmeObrisiUslugu = document.createElement("button");
+        dugmeObrisiUslugu.innerHTML = "Obriši uslugu";
+        dugmeObrisiUslugu.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeObrisiUslugu);
+
+        dugmeObrisiUslugu.onclick = () => {
+            this.CrtajFormu("obrisiUslugu");
+        }
+
+        let dugmeIzmeniCenuUsluge = document.createElement("button");
+        dugmeIzmeniCenuUsluge.innerHTML = "Izmeni cenu usluge";
+        dugmeIzmeniCenuUsluge.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeIzmeniCenuUsluge);
+
+        dugmeIzmeniCenuUsluge.onclick = () => {
+            this.CrtajFormu("izmeniCenu");
+        }
+
+        let dugmeOdjaviSe = document.createElement("button");
+        dugmeOdjaviSe.innerHTML = "Odjavi se";
+        dugmeOdjaviSe.className = "dugmeRezervacije";
+        divProfil.appendChild(dugmeOdjaviSe);
+
+        dugmeOdjaviSe.onclick = () => {
+            window.location.href = "./index.html";
+        }
         fetch("http://localhost:5000/GetAllReservationsS/" + this.id)
         .then(pp => {
             if(pp.status == 200){
@@ -27,16 +93,31 @@ export class Salon {
                     divRezervacije.className = "Saloni";
                     host.appendChild(divRezervacije);
                     rezervacije.forEach(rezervacija => {
+                        console.log(rezervacija);
                         const date = new Date();
                         let day = date.getDate();
                         let month = date.getMonth() + 1;
                         let year = date.getFullYear();
                         let datumRez = rezervacija.date.split(".");
-                        if (year <= datumRez[2] && month <= datumRez[1] && day <= datumRez[0])
+                        if (year <= parseInt(datumRez[2]) && month <= parseInt(datumRez[1]) && day <= parseInt(datumRez[0])) {
                             this.crtajRezervaciju(rezervacija, divRezervacije);
+                        }
+                        if (year > parseInt(datumRez[2]) || month > parseInt(datumRez[1]) || day > parseInt(datumRez[0])) {
+                            fetch("http://localhost:5000/DeleteReservation/" + rezervacija.id, 
+                            {
+                                method:"DELETE",
+                            })
+                            .then(rr =>{
+                                if(rr.status == 200){
+                                    rr.text().then(d =>{
+                                    })
+                                }
+                                
+                            })
+                        }
                     });
 
-                    let divProfil = document.createElement("div");
+                    /*let divProfil = document.createElement("div");
                     divProfil.className = "divRezervacije";
                     host.appendChild(divProfil);
                     let dugmeProfil = document.createElement("button");
@@ -101,13 +182,13 @@ export class Salon {
 
                     dugmeOdjaviSe.onclick = () => {
                         window.location.href = "./index.html";
-                    }
+                    }*/
 
                 })
             }
             else{
                 pp.text().then(data => {
-                    alert(data);
+                    //alert(data);
                 })
             }   
         })
@@ -365,12 +446,12 @@ export class Salon {
                     potvrdi.innerHTML = "potvrdi izmenu";
                     divDan.appendChild(potvrdi);
 
-                    let divDugme = document.createElement("div");
+                    /*let divDugme = document.createElement("div");
                     divDugme.className = "Dugme";
-                    host.appendChild(divDugme);
+                    divForma.appendChild(divDugme);
                     let dugme = document.createElement("button");
-                    dugme.innerHTML = "Register";
-                    divDugme.appendChild(dugme);
+                    dugme.innerHTML = "Register";*/
+                    //divDugme.appendChild(dugme);
                     let niz = document.querySelectorAll(".dan");
                     niz.forEach((element, index) => {
                         

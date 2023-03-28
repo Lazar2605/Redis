@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nszpm5RLrXrpnjtREKiv4Mdb9+HahFW0pHbMgTuzgHJmlGgxYXmY1EpKDEgDv3xwMPhqPjgGP+KW141RCOU+eQ==",
+  "dgSpecHash": "oQ8TT/6HxTmKDi52JeFkTaCroML4kFvPd5Rl1XglXKv8ErDpCoVC3J8yX6a9+gJ22XCgRfedwOuRECOVoH1Mhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lidija\\Downloads\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (Trebalo bi finalno)\\NBPProj1_2 (2)\\NBPProj1_2\\NBPProj1_2\\NBPProj1_2.csproj",
+  "projectFilePath": "C:\\Users\\Lidija\\Desktop\\Projekti\\Redis\\NBPProj1_2\\NBPProj1_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lidija\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lidija\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
